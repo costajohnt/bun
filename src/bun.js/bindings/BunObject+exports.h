@@ -18,6 +18,8 @@
     macro(SHA512) \
     macro(SHA512_256) \
     macro(TOML) \
+    macro(YAML) \
+    macro(Terminal) \
     macro(Transpiler) \
     macro(ValkeyClient) \
     macro(argv) \
@@ -30,9 +32,6 @@
     macro(origin) \
     macro(s3) \
     macro(semver) \
-    macro(stderr) \
-    macro(stdin) \
-    macro(stdout) \
     macro(unsafe) \
     macro(valkey) \
 
